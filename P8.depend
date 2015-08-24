@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1367972618 source:/home/jake/Documents/a100_dev/knowledgeBase/KBTree.cpp
+	"KBTree.hpp"
+
+1367972387 /home/jake/Documents/a100_dev/knowledgeBase/KBTree.hpp
+	"tools.hpp"
+
+1364358959 /home/jake/Documents/a100_dev/knowledgeBase/tools.hpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<string>
+	<random>
+	<algorithm>
+	<iterator>
+	<functional>
+	<limits>
+	<vector>
+	<queue>
+	<deque>
+	<list>
+	<set>
+	<map>
+	<stack>
+	<stdexcept>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<ctime>
+	<cctype>
+	<climits>
+	<cfloat>
+	<cstdarg>
+	<cassert>
+
+1367972671 source:/home/jake/Documents/a100_dev/knowledgeBase/P8.cpp
+	"KBTree.hpp"
+
+1364176941 source:/home/jake/Documents/a100_dev/knowledgeBase/tools.cpp
+	"tools.hpp"
+	<windows.h>
+	<unistd.h>
+

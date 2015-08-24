@@ -1,0 +1,13 @@
+0Is it carbonated?
+1Is it decaffinated?
+1Is it sugarless?
+1Tonic
+2Sprite
+2Does it have lemon and lime in it?
+1Mountain Dew
+2Coke
+2Does it have fruit in it?
+1Does it have a large quantity of ice in it?
+1Fruit Smoothie
+2Juice
+2Water
